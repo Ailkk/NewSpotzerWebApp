@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+#spotz {
+	text-align:center;
+
+}
+
+.margeGauche {
+	height: 900px;
+	width: 10%;
+	background-color: #c8f37d;
+	border:2px black solid;
+	float:left;
+}
+
+.partieDroite {
+	margin-left: 20%;
+}
